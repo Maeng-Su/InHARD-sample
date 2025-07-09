@@ -1,0 +1,110 @@
+Meta_action_label,Action_label,Start Time (s),End Time (s)
+[2] Consult sheets,[OP010] Consult sheets,2.72,9
+[7] Picking left,[OP010] Catch Fixture key LARD,11.28,12.84
+[12] Assemble system,[OP010] Place LARD on Profile P360-1,13.84,18.88
+[6] Picking in front,[OP010] Catch Fixation FIXA1,23.32,25.44
+[12] Assemble system,[OP010] Place FIXA1 on LARD at 160mm,26.48,28.8
+[7] Picking left,[OP010] Catch Bolt B820,31.24,32.4
+[8] Take measuring rod,[OP010] Take measuring rod,36.56,37.92
+[4] Take screwdriver,[OP010] Take screwdriver,39.36,40.4
+[12] Assemble system,[OP010] Screw FIXA1 with B820,41.2,44.56
+[5] Put down screwdriver,[OP010] Put down screwdriver,44.76,47.24
+[9] Put down measuring rod,[OP010] Put down measuring rod,47.28,49.12
+[3] Turn sheets,[OP020] Turn sheets,54.52,57.52
+[2] Consult sheets,[OP020] Consult sheets,57.56,58.12
+[7] Picking left,[OP020] Catch Fixture key LARD,58.76,60.64
+[12] Assemble system,[OP020] Place LARD on P360-1,61.08,66.28
+[7] Picking left,[OP020] Catch Bolt B820,66.56,69.32
+[6] Picking in front,[OP020] Catch Fixation FIXA1,69.88,72.04
+[12] Assemble system,[OP020] Place FIXA1 on LARD at 160mm,73.56,81.96
+[4] Take screwdriver,[OP020] Take screwdriver,82.24,83.28
+[8] Take measuring rod,[OP020] Take measuring rod,84.52,86.88
+[12] Assemble system,[OP020] Screw FIXA1 with B820,87.72,92
+[5] Put down screwdriver,[OP020] Put down screwdriver,92.32,93.04
+[9] Put down measuring rod,[OP020] Put down measuring rod,93.12,95.44
+[2] Consult sheets,[OP030] Consult sheets,107.12,110.04
+[7] Picking left,[OP030] Catch Fixture key LARD (x2),111.12,112.8
+[12] Assemble system,[OP030] Place LARD on P360-1 (x2),116.88,118.84
+[6] Picking in front,[OP030] Catch Fixation FIXT (x2),124.48,128.64
+[12] Assemble system,[OP030] Place FIXT on LARD (x2),130,134.60001
+[6] Picking in front,[OP030] Catch Pillow block bearing PAL4019 (x2),136.44,138.60001
+[12] Assemble system,[OP030] Place PAL4019 on FIXT (x2),138.75999,141
+[7] Picking left,[OP030] Catch Bolt B840 (x2),143.88,145.52
+[4] Take screwdriver,[OP030] Take screwdriver,148.16,148.8
+[12] Assemble system,[OP030] Screw PAL4019 with B820 (x2),148.88,153.16
+[5] Put down screwdriver,[OP030] Put down screwdriver,153.24001,155.60001
+[6] Picking in front,[OP030] Catch Cover CAPO (x2),156.88,159.16
+[2] Consult sheets,[OP030] Consult sheets,160,164.36
+[12] Assemble system,[OP030] Place CAPO on P360-1(x2),165.8,168.12
+[7] Picking left,[OP030] Catch Fixture key LARD (x2),171.08,172.67999
+[12] Assemble system,[OP030] Place LARD on P360-1 (x2),173.44,175.44
+[6] Picking in front,[OP030] Catch Fixation FIXT (x2),176.36,178.16
+[12] Assemble system,[OP030] Place FIXT on LARD (x2),179.03999,183.36
+[6] Picking in front,[OP030] Catch Pillow block bearing PAL4019 (x2),184.88,186.32001
+[12] Assemble system,[OP030] Place PAL4019 on FIXT (x2),186.64,187.60001
+[7] Picking left,[OP030] Catch Bolt B840 (x2),188.2,189.96001
+[4] Take screwdriver,[OP030] Take screwdriver,191.36,193.08
+[12] Assemble system,[OP030] Screw PAL4019 with B820 (x2),193.84,196.24001
+[5] Put down screwdriver,[OP030] Put down screwdriver,196.56,198.60001
+[6] Picking in front,[OP030] Catch Cover CAPO (x2),199.16,200.84
+[12] Assemble system,[OP030] Place CAPO on P360-1(x2),201.48,204.8
+[14] Put down subsystem,[OP030] Put down Profile P360-1,217.52,224.39999
+[3] Turn sheets,[OP040] Turn sheets,242.24001,245.39999
+[2] Consult sheets,[OP040] Consult sheets,245.52,246.67999
+[6] Picking in front,[OP040] Catch Fixation FIXA2,247.88,251.24001
+[7] Picking left,[OP040] Catch Bolt B820,257.12,259.20001
+[12] Assemble system,[OP040] Place FIXL on P360-2,259.79999,266.04001
+[4] Take screwdriver,[OP040] Take screwdriver,266.44,267.76001
+[12] Assemble system,[OP040] Screw FIXA2 with B820,268.23999,271
+[5] Put down screwdriver,[OP040] Put down screwdriver,271.04001,272.56
+[2] Consult sheets,[OP040] Consult sheets,275.16,277.12
+[6] Picking in front,[OP040] Catch Fixation FIXL,284.35999,286.79999
+[7] Picking left,[OP040] Catch Strap clamps BRIT (x2),294.92001,296.67999
+[12] Assemble system,[OP040] Place BRIT1 and BRIT2 on FIXL,296.76001,299.48001
+[7] Picking left,[OP040] Catch Strap clamps BRIT (x2),299.72,301.51999
+[12] Assemble system,[OP040] Place BRIT1 and BRIT2 on FIXL,302.07999,304.12
+[7] Picking left,[OP040] Catch Bolt B820PT,308.35999,309.76001
+[4] Take screwdriver,[OP040] Take screwdriver,316.56,317.76001
+[12] Assemble system,[OP040] Screw FIXL with B820PT,318.20001,320.79999
+[5] Put down screwdriver,[OP040] Put down screwdriver,320.92001,322.95999
+[3] Turn sheets,[OP050] Turn sheets,330.04001,333.76001
+[6] Picking in front,[OP050] Catch Profile P040,333.84,335.44
+[7] Picking left,[OP050] Catch Strap clamps BRIT (x2),337.39999,339.92001
+[12] Assemble system,[OP050] Place BRIT1 and BRIT2 on P040,349,350.79999
+[7] Picking left,[OP050] Catch Strap clamps BRIT (x2),351.23999,353.20001
+[12] Assemble system,[OP050] Place BRIT1 and BRIT2 on P040,353.92001,355.44
+[12] Assemble system,[OP050] Place P040 on P360-2,355.84,358.56
+[7] Picking left,[OP050] Catch Bolt B820PT,361.39999,363.44
+[4] Take screwdriver,[OP050] Take screwdriver,370.12,371.16
+[12] Assemble system,[OP050] Screw P040 with B820PT,372.20001,374.60001
+[5] Put down screwdriver,[OP050] Put down screwdriver,374.79999,376.48001
+[2] Consult sheets,[OP060] Consult sheets,381.88,383.67999
+[7] Picking left,[OP060] Catch Fixture key LARD,384.23999,386.72
+[12] Assemble system,[OP060] Place LARD on P040 (P360-2),389.20001,392.23999
+[6] Picking in front,[OP060] Catch Fixation FIXA1,393.48001,395
+[7] Picking left,[OP060] Catch Bolt B820 (x2),397.72,399.76001
+[12] Assemble system,[OP060] Place FIXA1 on P360-2,402.20001,408.92001
+[4] Take screwdriver,[OP060] Take screwdriver,409.07999,410.39999
+[12] Assemble system,[OP060] Screw FIXA1 with B820,411.20001,413.32001
+[5] Put down screwdriver,[OP060] Put down screwdriver,413.39999,417.04001
+[2] Consult sheets,[OP060] Consult sheets,417.39999,418.64001
+[3] Turn sheets,[OP060] Turn sheets,421.28,423.16
+[2] Consult sheets,[OP060] Consult sheets,424.04001,426.39999
+[6] Picking in front,[OP060] Catch Fixation FIXA2,426.64001,428.95999
+[12] Assemble system,[OP060] Place FIXA2 on P360-2,429.44,430.84
+[7] Picking left,[OP060] Catch Bolt B820 (x2),431.48001,433
+[4] Take screwdriver,[OP060] Take screwdriver,434.92001,436.84
+[12] Assemble system,[OP060] Screw FIXA2 with B820,437.39999,439.88
+[5] Put down screwdriver,[OP060] Put down screwdriver,439.95999,442.12
+[2] Consult sheets,[OP070] Consult sheets,442.23999,443.51999
+[7] Picking left,[OP070] Catch Bolt B835,460.12,461.92001
+[6] Picking in front,[OP070] Place ECR8 on DI2T,464.95999,467
+[2] Consult sheets,[OP070] Consult sheets,468.60001,471.20001
+[12] Assemble system,[OP070] Place DI2T on P360-2,471.56,473.16
+[7] Picking left,[OP070] Catch Nut ECR8,478.16,480.48001
+[13] Take subsystem,[OP070] Catch component,480.79999,482.79999
+[12] Assemble system,[OP070] Place ECR8 on DI2T,492.88,497.88
+[4] Take screwdriver,[OP070] Take screwdriver,504.64001,506.16
+[12] Assemble system,[OP070] Screw P360-2 with B835,506.39999,509.79999
+[5] Put down screwdriver,[OP070] Put down screwdriver,509.88,512.08002
+[14] Put down subsystem,[OP070] Put down Lower Part,523.28003,
